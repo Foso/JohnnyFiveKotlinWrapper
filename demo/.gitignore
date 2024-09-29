@@ -1,0 +1,5 @@
+/build/
+/example/build/
+/wrapper/build/
+.gradle
+/.idea/

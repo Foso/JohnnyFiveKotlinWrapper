@@ -1,0 +1,7 @@
+[versions]
+groupId = "de.jensklingenberg.kotlin-wrappers"
+jfw = "0.8.3"
+vannikMavenPublish = "0.28.0"
+
+[plugins]
+mavenPublish = { id = "com.vanniktech.maven.publish", version.ref = "vannikMavenPublish" }
