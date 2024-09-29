@@ -87,7 +87,7 @@ fun main() {
 ```
 
 5) You will find the compiled code in your build folder
-e.g. for the demo project it would be ./build/compileSync/js/main/productionExecutable/kotlin/demo
+e.g. for the demo (https://github.com/Foso/JohnnyFiveKotlinWrapper/tree/main/demo) project it would be ./build/compileSync/js/main/productionExecutable/kotlin/demo
 
 Use Node to run the compiled code:
 ```shell
