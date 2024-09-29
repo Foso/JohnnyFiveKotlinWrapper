@@ -46,7 +46,7 @@ kotlin {
        sourceSets {
            val jsMain by getting {
                dependencies {
-                   implementation("de.jensklingenberg.kotlin-wrappers:johnny-five:0.8.2")
+                   implementation("de.jensklingenberg.kotlin-wrappers:johnny-five:0.8.3")
                }
            }
        }
