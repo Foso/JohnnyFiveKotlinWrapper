@@ -34,7 +34,7 @@ When you have ideas for improvements, please write a GitHub issue.
    * Load sketch onto board.
    * If the upload was successful, the board is now prepared and you can close the Arduino IDE.
 
-3) Create a new Kotlin JS Project with NodeJs
+3) Create a new KotlinJS Project with NodeJs
    
 ```kotlin
 kotlin {
