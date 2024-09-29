@@ -101,3 +101,4 @@ You should see something like this in your terminal:
    ## 👷 Development Project Structure
  	
 * <kbd>wrapper</kbd> - contains the KotlinJs wrappers for johnny-five
+* <kbd>demo</kbd> - Demo project using johnny-five with Kotlin/JS
