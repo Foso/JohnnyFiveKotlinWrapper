@@ -1,7 +1,7 @@
 # JohnnyFiveKotlinWrapper
 [![Maven Central](https://img.shields.io/maven-central/v/de.jensklingenberg.kotlin-wrappers/johnny-five)](https://central.sonatype.com/artifact/de.jensklingenberg.kotlin-wrappers/johnny-five)
 <p align="center">
-  <img src ="https://github.com/Foso/JohnnyFiveKotlinWrapper/blob/main/docs/arduino.jpg"  />
+  <img src ="https://github.com/Foso/JohnnyFiveKotlinWrapper/blob/main/docs/arduino2.jpg"  />
 </p>
 
 ## Introduction
